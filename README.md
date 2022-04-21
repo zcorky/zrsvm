@@ -7,13 +7,6 @@
 
 ## Installation
 
-To install the package, run:
-```bash
-zmicro plugin install rsvm
-```
-
-### If you donot install [ZMicro](https://github.com/zcorky/zmicro):
-
 ```bash
 # CURL
 curl -o- https://raw.githubusercontent.com/zcorky/zrsvm/master/install | bash
